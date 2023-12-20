@@ -2,7 +2,7 @@
 #include <string>
 
 
-int dummy_main() {
+int main() {
 
     int pizzaSlices = 12;
     float pi = 3.14159f;
